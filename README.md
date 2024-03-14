@@ -17,7 +17,6 @@ Each game includes instructions for playing. Refer to the game's documentation i
 ## Technologies Used
 
 - HTML5
-- CSS3
 - JavaScript
 
 ## Contributing
