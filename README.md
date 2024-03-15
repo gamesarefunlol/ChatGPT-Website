@@ -18,6 +18,7 @@ Each game includes instructions for playing. Refer to the game's documentation i
 
 - HTML5
 - JavaScript
+- CSS3
 
 ## Contributing
 
